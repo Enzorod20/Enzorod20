@@ -1,19 +1,25 @@
 <h1 align="center">Hi , I'm Enzo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+**Hi, I'm Enzo Rodriguez 👋**
 
-A **System Analyst** 🚀 from Gualeguaychú, Argentina.
- 
+**System Analyst student | PHP & Web Design | Databases**
+
+
+
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
+🚀 From Gualeguaychú, Argentina.  
 🎓 I’m a 2nd-year **Systems Analysis** student.  
 🌱 I’m currently learning **PHP**, focusing on web design and object-oriented programming.  
 🗄️ I’m also learning how to interact with **databases**.  
 💡 I’m interested in **web design** and **native platforms**.  
 🚀 At university, we are being trained to become **Fullstack Developers**.  
 📫 Email me at [enzoargem@gmail.com](mailto:enzoargem@gmail.com)  
-📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.  
+📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Enzorod20) 
 
 
   My Skills Include
@@ -134,3 +140,12 @@ A **System Analyst** 🚀 from Gualeguaychú, Argentina.
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 </span>
+
+
+
+****
+![Estadísticas de Enzo](https://github-readme-stats.vercel.app/api?username=Enzorod20&show_icons,contribs=true&hide=stars,prs,issues&theme=radical)
+
+****
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzorod20&layout=compact)
+ 
