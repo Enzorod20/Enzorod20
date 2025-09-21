@@ -7,13 +7,14 @@ A **System Analyst** 🚀 from Gualeguaychú, Argentina.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [enzoargem@gmail.com](mailto:enzoargem@gmail.com)
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+🎓 I’m a 2nd-year **Systems Analysis** student.  
+🌱 I’m currently learning **PHP**, focusing on web design and object-oriented programming.  
+🗄️ I’m also learning how to interact with **databases**.  
+💡 I’m interested in **web design** and **native platforms**.  
+🚀 At university, we are being trained to become **Fullstack Developers**.  
+📫 Email me at [enzoargem@gmail.com](mailto:enzoargem@gmail.com)  
+📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.  
+
 
   ## My Skills Include
 
