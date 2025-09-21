@@ -5,7 +5,7 @@ A **System Analyst** 🚀 from Gualeguaychú, Argentina.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-About Me!
+**About Me!**
 
 🎓 I’m a 2nd-year **Systems Analysis** student.  
 🌱 I’m currently learning **PHP**, focusing on web design and object-oriented programming.  
@@ -16,7 +16,7 @@ About Me!
 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.  
 
 
-  ## My Skills Include
+  My Skills Include
 
 <h4>Puedo trabajar con estas inteligencias artificiales</h4>
 <span>
