@@ -24,7 +24,7 @@
 
   My Skills Include
 
-<h4>Puedo trabajar con estas inteligencias artificiales</h4>
+<h4>IA</h4>
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
